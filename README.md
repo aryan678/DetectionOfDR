@@ -1,1 +1,1 @@
-# DetectionOfDR
+# Detection Of Diabetic Retinopathy
