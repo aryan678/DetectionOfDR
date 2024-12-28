@@ -1,4 +1,3 @@
-# Detection Of Diabetic Retinopathy
 # Diabetic Retinopathy Detection using Machine Learning
 
 ## What is Diabetic Retinopathy?
