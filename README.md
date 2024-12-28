@@ -3,12 +3,13 @@
 ## What is Diabetic Retinopathy?
 Diabetic Retinopathy (DR) is a severe complication of diabetes that affects the retina, leading to vision impairment or even blindness if not diagnosed and treated promptly. This project focuses on the early detection of DR using Machine Learning techniques, providing a highly accurate diagnosis with a success rate of 94%.
 
--
 
 ## Dataset
 The project utilizes a dataset consisting of retinal images captured from diabetic patients. These images are used to train and evaluate the effectiveness of our machine learning models.
 
----
+----
+
+
 
 ## Key Techniques and Preprocessing Steps
 
